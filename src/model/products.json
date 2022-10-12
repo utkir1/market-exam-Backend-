@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Qatiq 1l",
+        "price": "11000",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "title": "Pepsi 1l",
+        "price": "8000",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "title": "Cola 2l",
+        "price": "14000",
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "title": "Sut 1l",
+        "price": "12000",
+        "branchId": 4
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Havas Tinchlik",
+        "address": "Tinchlik metro",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "title": "Havas Chilonzor",
+        "address": "Chilonzor metro",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "title": "Korzinka Beruniy",
+        "address": "Beruniy metro",
+        "marketId": 2
+    },
+    {
+        "id": 4,
+        "title": "Korzinka Kohinur",
+        "address": "Chilonzor",
+        "marketId": 2
+    }
+]

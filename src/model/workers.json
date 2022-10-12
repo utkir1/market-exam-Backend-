@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Eshmat",
+        "phoneNumber": "901234567",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "name": "Toshmat",
+        "phoneNumber": "907060332",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "name": "Toshtemir",
+        "phoneNumber": "907060345",
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "name": "Mamarayim",
+        "phoneNumber": "907345434",
+        "branchId": 4
+    }
+]
